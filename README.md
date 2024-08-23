@@ -1,4 +1,4 @@
-# Coffee-Exploration-
+# Coffee-Exploration
 
 Project-4
 
