@@ -132,8 +132,7 @@ This gives you a complete picture of how the coffee might be rated, both on the 
 Looking ahead, after the coffee exploartion project, we see an opportunity to expand our research into the impacts of climate change on coffee production. By studying how changing climates affect coffee-growing regions, we could explore ways to predict and mitigate these effects, contributing valuable insights to both the coffee industry and broader environmental discussions.
 
 
-![mario-ibrahimi-2RrAct0Rf8E-unsplash](https://github.com/user-attachments/assets/05648512-357d-4748-92f0-b522e2314e3a)
-
+![mario-ibrahimi-2RrAct0Rf8E-unsplash1](https://github.com/user-attachments/assets/3306afb3-10d5-4ba9-9895-e7e850834b6d)
 
 
 ## *Citations*
