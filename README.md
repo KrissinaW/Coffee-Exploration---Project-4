@@ -60,7 +60,7 @@ For the final presentation, we used [Google Slides](https://docs.google.com/pres
 
  ### How to Run the Program:
 
-#### *Make Sure Python is Installed:* 
+#### **Make Sure Python is Installed:**
 
 Ensure that Python is installed on your computer. You'll also need some Python packages, like pandas, numpy, and sklearn, which the program uses.
 
