@@ -34,7 +34,7 @@ We preprocessed the text descriptions to enhance model performance by converting
     
 The dataset was split into an 80% training set and a 20% testing set. We built a machine learning pipeline that includes scaling, text transformation, and encoding steps, with a RandomForestRegressor used to predict the quality ratings across multiple targets.
 
-  - User Input and Prediction
+   - User Input and Prediction
     
 The final model allows users to input coffee details (cost, origin, roast level, description) and receive predictions for the quality ratings based on the trained model.
 
