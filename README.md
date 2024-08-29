@@ -52,6 +52,8 @@ We imported the data into Tableau and ensured that all value types were correct 
 
 For the final presentation, we used [Google Slides](https://docs.google.com/presentation/d/1qQ95_PN-ragvNqqXkASRkP4Edhuew8NZdcvBS92oREQ/edit?usp=sharing) to organize and present our findings in a clear and visually engaging way.
 
+*Image credit: ![Black-Coffee-easy-Recipe](https://github.com/user-attachments/assets/e24a0ad8-0934-4d20-a440-e420860e1232)*
+
 ## *Looking Ahead:*
 
 ### Possible Improvements: 
