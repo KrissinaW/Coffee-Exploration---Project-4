@@ -52,7 +52,7 @@ We imported the data into Tableau and ensured that all value types were correct 
 
 For the final presentation, we used [Google Slides](https://docs.google.com/presentation/d/1qQ95_PN-ragvNqqXkASRkP4Edhuew8NZdcvBS92oREQ/edit?usp=sharing) to organize and present our findings in a clear and visually engaging way.
 
-# - How to use the Machine Learning program:
+# *How to use the Machine Learning program:*
  ### How to Run the Program:
 
 Make Sure Python is Installed: Ensure that Python is installed on your computer. You'll also need some Python packages, like pandas, numpy, and sklearn, which the program uses.
