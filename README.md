@@ -56,7 +56,7 @@ For the final presentation, we used [Google Slides](https://docs.google.com/pres
 
 ![Black-Coffee-easy-Recipe](https://github.com/user-attachments/assets/e24a0ad8-0934-4d20-a440-e420860e1232)
 
-*Image credit: [herzindagi.com](https://www.herzindagi.com/recipe-tips/how-to-make-black-coffee-at-home-article-183761))*
+*Image credit: [herzindagi.com](https://www.herzindagi.com/recipe-tips/how-to-make-black-coffee-at-home-article-183761)*
 
 ### Possible Improvements: 
 
