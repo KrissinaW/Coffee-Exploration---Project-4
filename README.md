@@ -70,7 +70,7 @@ Predicted Ratings: You’ll see the predicted ratings for Aroma, Acid, Body, Fla
 Overall Rating: The sum of the predicted ratings will be displayed as the "Overall Rating."
 Website Rating: Finally, the program will show the "Website Rating," which is a simpler, standardized score for easier interpretation.
 
-Example:
+### Example:
 
 If you enter:
 
