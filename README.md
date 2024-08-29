@@ -118,11 +118,11 @@ Website Rating: 93
 
 This gives you a complete picture of how the coffee might be rated, both on the website and in a simple overall score.
 
-## *Looking Ahead:*
-
-![Black-Coffee-easy-Recipe](https://github.com/user-attachments/assets/e24a0ad8-0934-4d20-a440-e420860e1232)
+![Black-Coffee-easy-Recipe1](https://github.com/user-attachments/assets/36bb2b9b-a10b-4b0b-bd71-b637c2a50385)
 
 *Image credit: [herzindagi.com](https://www.herzindagi.com/recipe-tips/how-to-make-black-coffee-at-home-article-183761)*
+
+## *Looking Ahead:*
 
 ### Possible Improvements: 
 
