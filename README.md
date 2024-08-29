@@ -52,6 +52,8 @@ We imported the data into Tableau and ensured that all value types were correct 
 
 For the final presentation, we used [Google Slides](https://docs.google.com/presentation/d/1qQ95_PN-ragvNqqXkASRkP4Edhuew8NZdcvBS92oREQ/edit?usp=sharing) to organize and present our findings in a clear and visually engaging way.
 
+![image](https://github.com/user-attachments/assets/3b859094-f9c4-40b6-816a-cc2883d404ce)
+
 # *How to use the Machine Learning program:*
  ### How to Run the Program:
 
