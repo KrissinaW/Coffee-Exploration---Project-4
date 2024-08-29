@@ -131,20 +131,22 @@ This gives you a complete picture of how the coffee might be rated, both on the 
 ### Project Expansion:
 Looking ahead, after the coffee exploartion project, we see an opportunity to expand our research into the impacts of climate change on coffee production. By studying how changing climates affect coffee-growing regions, we could explore ways to predict and mitigate these effects, contributing valuable insights to both the coffee industry and broader environmental discussions.
 
+![921322](https://github.com/user-attachments/assets/71634081-ad8b-42e4-b249-ffef895dc48a)
+
 ## *Citations*
 
-1. **Coffee Terminology**  
+**Coffee Terminology**  
    Retrieved from [hermanoscoffeeroasters.com](https://www.hermanoscoffeeroasters.com)
 
-2. **Data Source**  
+**Data Source**  
    Retrieved from [Coffee Review](https://www.coffeereview.com/review/)
 
-3. **Inspiration and Partial Code**  
+**Inspiration and Partial Code**  
    Retrieved from [Kaggle - Coffee Scraping](https://www.kaggle.com/code/hanifalirsyad/coffee-scraping/output)
 
-4. **Geoapify Geocoding and Mapping API**  
+**Geoapify Geocoding and Mapping API**  
    Geoapify. (2024). Retrieved from [Geoapify](https://www.geoapify.com/)
 
-5. **ChatGPT**  
+**ChatGPT**  
    OpenAI. (2024). *ChatGPT (Version GPT-4)*. Retrieved from [ChatGPT](https://chat.openai.com/)
 
