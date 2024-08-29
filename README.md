@@ -4,7 +4,7 @@ Project-4
 
 Whether you're a casual drinker or a coffee connoisseur, this tool aims to make your coffee selection process both enjoyable and tailored to your specific needs.
 
-![istockphoto-1467739359-612x612](https://github.com/user-attachments/assets/07b6ed75-a47f-4ccc-98c9-71dc4500d0ae)
+![jon-tyson-pEGyLHAPfVw-unsplash](https://github.com/user-attachments/assets/3c8d825f-b235-41b9-acab-068cc8c54d78)
 
 *Image credit: [istockphoto.com](https://www.istockphoto.com/photos/coffee)*
 
@@ -52,9 +52,9 @@ We imported the data into Tableau and ensured that all value types were correct 
 
 For the final presentation, we used [Google Slides](https://docs.google.com/presentation/d/1qQ95_PN-ragvNqqXkASRkP4Edhuew8NZdcvBS92oREQ/edit?usp=sharing) to organize and present our findings in a clear and visually engaging way.
 
-*Image credit: ![Black-Coffee-easy-Recipe](https://github.com/user-attachments/assets/e24a0ad8-0934-4d20-a440-e420860e1232)*
-
 ## *Looking Ahead:*
+
+*Image credit: ![Black-Coffee-easy-Recipe](https://github.com/user-attachments/assets/e24a0ad8-0934-4d20-a440-e420860e1232)*
 
 ### Possible Improvements: 
 
