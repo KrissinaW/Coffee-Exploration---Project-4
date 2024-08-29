@@ -24,6 +24,8 @@ We scraped data from [The Coffee Review.com](https://www.coffeereview.com/), ens
 
 ### - Data Cleaning and Analysis:
 
+We scraped individual links from 100 pages of reviews on CoffeeReviews.com using Selenium WebDriver. From each link, we extracted review data and converted it into a readable dataframe. To standardize the dataset, we converted the cost of each coffee to a uniform US dollar amount per 12 ounces, removing any rows that could not be converted. Additional cleanup included converting various currencies and normalizing weights from grams to ounces to ensure consistency across all data points.
+
 ### - Machine Learning:
   
     - Feature Engineering
@@ -38,7 +40,9 @@ The dataset was split into an 80% training set and a 20% testing set. We built a
     
 The final model allows users to input coffee details (cost, origin, roast level, description) and receive predictions for the quality ratings based on the trained model.
 
-### - Dashboard:
+### - Dashboard/ Data Visualization:
+
+We imported the data into Tableau and ensured that all value types were correct for accurate analysis. To enhance user interaction, we created parameters that allow users to display specific data. Using latitude and longitude values, we generated a map visualization. Additionally, we developed calculated fields to dynamically generate points on the map based on user selections. To improve the user experience, we adjusted tooltips, colors, and sizes for better clarity and presentation.
 
 ### - Word Cloud:
 
@@ -46,7 +50,7 @@ The final model allows users to input coffee details (cost, origin, roast level,
 
 ### - Final Project Presentation:
 
-For the final presentation, we used Google Slides to organize and present our findings in a clear and visually engaging way.
+For the final presentation, we used [Google Slides](https://docs.google.com/presentation/d/1qQ95_PN-ragvNqqXkASRkP4Edhuew8NZdcvBS92oREQ/edit?usp=sharing) to organize and present our findings in a clear and visually engaging way.
 
 ## *Looking Ahead:*
 
