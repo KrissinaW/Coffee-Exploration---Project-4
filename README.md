@@ -60,7 +60,7 @@ For the final presentation, we used [Google Slides](https://docs.google.com/pres
 
 ### Possible Improvements: 
 
-### Ideas for Development
+### Ideas for Development:
 
 ### Project Expansion:
 Looking ahead, after the coffee exploartion project, we see an opportunity to expand our research into the impacts of climate change on coffee production. By studying how changing climates affect coffee-growing regions, we could explore ways to predict and mitigate these effects, contributing valuable insights to both the coffee industry and broader environmental discussions.
