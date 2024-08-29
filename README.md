@@ -14,37 +14,37 @@ This project leverages a comprehensive dataset of coffee, encompassing various c
 
 ## *Technologies Used:*
 
-- Lucid Chart-Flow Chart:
+### - Lucid Chart-Flow Chart:
 
   Our [process flow chart](https://lucid.app/lucidchart/fd780518-75bf-4bc6-890b-131cea1d39eb/edit?view_items=pWN5zXSXMqBs&invitationId=inv_c2623e5c-ff20-4a38-9f1d-3fc05ed588fa) was created as a visual tool to assist with project management, ensuring that each stage of our project is clearly defined and efficiently executed. The chart outlines the key phases of the project, from problem definition and data collection to model deployment and reporting. By assigning specific tasks to team members and visually representing the workflow, the chart helps us track progress, manage tasks effectively, and maintain clear communication within the team. This structured approach ensures that all project elements are aligned and contributes to a successful outcome.
 
-- Data Collection and Processing:
+### - Data Collection and Processing:
 
 We scraped data from [The Coffee Review.com](https://www.coffeereview.com/), ensuring that we followed legal guidelines for data usage. After extracting the relevant information, we cleaned and processed the data to remove any inconsistencies and prepare it for analysis. This process involved normalizing pricing formats, handling missing values, and structuring the data effectively, resulting in a reliable dataset ready for further exploration.
 
-- Data Cleaning and Analysis:
+### - Data Cleaning and Analysis:
 
-- Machine Learning:
+### - Machine Learning:
   
-    - Feature Engineering
+  #### - Feature Engineering
       
 We preprocessed the text descriptions to enhance model performance by converting text to lowercase, removing punctuation and stopwords, and applying stemming. The ratings for Aroma, Acid, Body, Flavor, and Aftertaste were doubled from a 0-10 scale to a 0-20 scale to increase prediction granularity.
  
-     - Initial Model Development
+   #### - Initial Model Development
     
 The dataset was split into an 80% training set and a 20% testing set. We built a machine learning pipeline that includes scaling, text transformation, and encoding steps, with a RandomForestRegressor used to predict the quality ratings across multiple targets.
 
-      - User Input and Prediction
+  #### - User Input and Prediction
     
 The final model allows users to input coffee details (cost, origin, roast level, description) and receive predictions for the quality ratings based on the trained model.
 
-- Dashboard:
+### - Dashboard:
 
-- Word Cloud:
+### - Word Cloud:
 
  We created the word cloud by first selecting relevant text data column and then cleaning it by removing common stopwords, punctuation, and converting everything to lowercase for consistency. We then calculated the frequency of each word to determine its prominence in the word cloud. Using a word cloud generator, we input the processed text, adjusting the shape and colors to highlight key themes. The result visually represents the most frequent terms, allowing for a quick grasp of the main ideas within the dataset
 
-- Final Project Presentation:
+### - Final Project Presentation:
 
 For the final presentation, we used Google Slides to organize and present our findings in a clear and visually engaging way.
 
