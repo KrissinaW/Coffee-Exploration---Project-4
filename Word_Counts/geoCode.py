@@ -1,12 +1,15 @@
 import pandas as pd
 import requests
+from dotenv import load_dotenv
+import os
 
 # Load your CSV file
 df = pd.read_csv('C:/Users/Krissy/Bootcamp/Coffee-Exploration---Project-4/Data/coffee_fix_cleaned.csv')
 print("CSV file loaded successfully.")
 
 # Your Geoapify API key
-api_key = '0d8b901372b243dcae304216af90dd15'
+load_dotenv()
+api_key = os.getenv("API_KEY")
 
 # Function to get latitude and longitude using Geoapify API
 def get_lat_lon(location, api_key):
