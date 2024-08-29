@@ -16,6 +16,8 @@ This project leverages a comprehensive dataset of coffee, encompassing various c
 
 - Data Collection and Processing:
 
+We scraped data from The Coffee Review.com, ensuring that we followed legal guidelines for data usage. After extracting the relevant information, we cleaned and processed the data to remove any inconsistencies and prepare it for analysis. This process involved normalizing pricing formats, handling missing values, and structuring the data effectively, resulting in a reliable dataset ready for further exploration.
+
 - Data Cleaning and Analysis:
 
 - Machine Learning:
