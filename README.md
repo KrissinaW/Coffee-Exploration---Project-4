@@ -40,7 +40,19 @@ The dataset was split into an 80% training set and a 20% testing set. We built a
     
 The final model allows users to input coffee details (cost, origin, roast level, description) and receive predictions for the quality ratings based on the trained model.
 
-### - How to use the Machine Learning program:
+### - Dashboard/ Data Visualization:
+
+We imported the data into Tableau and ensured that all value types were correct for accurate analysis. To enhance user interaction, we created parameters that allow users to display specific data. Using latitude and longitude values, we generated a map visualization. Additionally, we developed calculated fields to dynamically generate points on the map based on user selections. To improve the user experience, we adjusted tooltips, colors, and sizes for better clarity and presentation.
+
+### - Word Cloud:
+
+ We created the word cloud by first selecting relevant text data column and then cleaning it by removing common stopwords, punctuation, and converting everything to lowercase for consistency. We then calculated the frequency of each word to determine its prominence in the word cloud. Using a word cloud generator, we input the processed text, adjusting the shape and colors to highlight key themes. The result visually represents the most frequent terms, allowing for a quick grasp of the main ideas within the dataset
+
+### - Final Project Presentation:
+
+For the final presentation, we used [Google Slides](https://docs.google.com/presentation/d/1qQ95_PN-ragvNqqXkASRkP4Edhuew8NZdcvBS92oREQ/edit?usp=sharing) to organize and present our findings in a clear and visually engaging way.
+
+# - How to use the Machine Learning program:
  ### How to Run the Program:
 
 Make Sure Python is Installed: Ensure that Python is installed on your computer. You'll also need some Python packages, like pandas, numpy, and sklearn, which the program uses.
@@ -101,18 +113,6 @@ Overall Rating: 86.04
 Website Rating: 93
 
 This gives you a complete picture of how the coffee might be rated, both on the website and in a simple overall score.
-
-### - Dashboard/ Data Visualization:
-
-We imported the data into Tableau and ensured that all value types were correct for accurate analysis. To enhance user interaction, we created parameters that allow users to display specific data. Using latitude and longitude values, we generated a map visualization. Additionally, we developed calculated fields to dynamically generate points on the map based on user selections. To improve the user experience, we adjusted tooltips, colors, and sizes for better clarity and presentation.
-
-### - Word Cloud:
-
- We created the word cloud by first selecting relevant text data column and then cleaning it by removing common stopwords, punctuation, and converting everything to lowercase for consistency. We then calculated the frequency of each word to determine its prominence in the word cloud. Using a word cloud generator, we input the processed text, adjusting the shape and colors to highlight key themes. The result visually represents the most frequent terms, allowing for a quick grasp of the main ideas within the dataset
-
-### - Final Project Presentation:
-
-For the final presentation, we used [Google Slides](https://docs.google.com/presentation/d/1qQ95_PN-ragvNqqXkASRkP4Edhuew8NZdcvBS92oREQ/edit?usp=sharing) to organize and present our findings in a clear and visually engaging way.
 
 ## *Looking Ahead:*
 
