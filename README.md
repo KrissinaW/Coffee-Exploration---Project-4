@@ -73,19 +73,29 @@ Example:
 If you enter:
 
 Cost: $22
+
 Origin: Guji Zone, Oromia Region, southern Ethiopia
+
 Roast Level: Light
+
 Description: "Balanced, high-toned, multi-layered. Dried plum, genmaicha tea, lemon balm, candied violet, cocoa nib in aroma and cup. Sparkling acidity; crisp, satiny mouthfeel. Notes of dried plum and genmaicha tea are foregrounded in the pleasing finish."
 
 The program might display something like:
 
 Aroma: 18.02
+
 Acid: 17.82
+
 Body: 16.14
+
 Flavor: 18.00
+
 Aftertaste: 16.06
+
 Overall Rating: 86.04
+
 Website Rating: 93
+
 This gives you a complete picture of how the coffee might be rated, both on the website and in a simple overall score.
 
 ### - Dashboard/ Data Visualization:
