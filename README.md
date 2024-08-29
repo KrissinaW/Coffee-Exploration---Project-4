@@ -24,7 +24,9 @@ We scraped data from [The Coffee Review.com](https://www.coffeereview.com/), ens
 
 ### - Data Cleaning and Analysis:
 
-We scraped individual links from 100 pages of reviews on CoffeeReviews.com using Selenium WebDriver. From each link, we extracted review data and converted it into a readable dataframe. To standardize the dataset, we converted the cost of each coffee to a uniform US dollar amount per 12 ounces, removing any rows that could not be converted. Additional cleanup included converting various currencies and normalizing weights from grams to ounces to ensure consistency across all data points.
+We scraped individual links from 100 pages of reviews on CoffeeReviews.com using Selenium WebDriver. From each link, we extracted review data and converted it into a readable data frame. To standardize the dataset, we converted the cost of each coffee to a uniform US dollar amount per 12 ounces, removing any rows that could not be converted. Additional cleanup included converting various currencies and normalizing weights from grams to ounces to ensure consistency across all data points.
+
+In this step, we also used Geoapify to add the latitude and longitude for each coffee's origin and roaster site. This geolocation data allowed us to create a mapping visualization in Tableau, providing a geographic context to the coffee varieties and enhancing the overall analysis.
 
 ### - Machine Learning:
   
