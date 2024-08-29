@@ -20,11 +20,11 @@ This project leverages a comprehensive dataset of coffee, encompassing various c
 
 ### - Data Collection and Processing:
 
-We scraped data from [The Coffee Review.com](https://www.coffeereview.com/), ensuring that we followed legal guidelines for data usage. After extracting the relevant information, we cleaned and processed the data to remove any inconsistencies and prepare it for analysis. This process involved normalizing pricing formats, handling missing values, and structuring the data effectively, resulting in a reliable dataset ready for further exploration.
+We began by scraping data from [The Coffee Review.com](https://www.coffeereview.com/), ensuring compliance with legal guidelines for data usage. This initial step involved gathering comprehensive data on various coffee varieties, including reviews and ratings. After extraction, we focused on processing the raw data, which involved normalizing pricing formats and handling missing values. This ensured that the dataset was consistent and reliable, setting a solid foundation for further analysis.
 
 ### - Data Cleaning and Analysis:
 
-We scraped individual links from 100 pages of reviews on CoffeeReviews.com using Selenium WebDriver. From each link, we extracted review data and converted it into a readable data frame. To standardize the dataset, we converted the cost of each coffee to a uniform US dollar amount per 12 ounces, removing any rows that could not be converted. Additional cleanup included converting various currencies and normalizing weights from grams to ounces to ensure consistency across all data points.
+After the initial data collection, we conducted a detailed cleaning and analysis phase. We scraped individual links from 100 pages of reviews on CoffeeReviews.com using Selenium WebDriver. From each link, we extracted review data and converted it into a readable data frame. To standardize the dataset, we converted the cost of each coffee to a uniform US dollar amount per 12 ounces, removing any rows that could not be converted. Additional cleanup included converting various currencies and normalizing weights from grams to ounces to ensure consistency across all data points.
 
 In this step, we also used Geoapify to add the latitude and longitude for each coffee's origin and roaster site. This geolocation data allowed us to create a mapping visualization in Tableau, providing a geographic context to the coffee varieties and enhancing the overall analysis.
 
