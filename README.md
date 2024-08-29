@@ -66,17 +66,25 @@ Ensure that Python is installed on your computer. You'll also need Python packag
 
  #### Run the Program:
 
-Open your terminal or command prompt.
-Navigate to the folder where your program file is saved.
-Run the program by typing python your_program_name.py and pressing Enter. Replace your_program_name.py with the actual name of your Python file.
-What Happens When You Run the Program:
-User Inputs:
+- Open your terminal or command prompt.
 
-The program will ask you to input some details about a coffee:
-Cost per 12 ounces: You’ll need to enter the price of the coffee for 12 ounces.
-Origin: You’ll be asked to type where the coffee comes from (e.g., Ethiopia, Colombia).
-Roast Level: You’ll input the roast level of the coffee, like Light, Medium, or Dark.
-Description: You’ll type a brief description of the coffee, highlighting its flavors or any other notable characteristics.
+- Navigate to the folder where your program file is saved.
+
+- Run the program by typing python your_program_name.py and pressing Enter. Replace your_program_name.py with the actual name of your Python file.
+
+### What Happens When You Run the Program:
+
+#### User Inputs:
+
+- The program will ask you to input some details about a coffee:
+
+- Cost per 12 ounces: _You’ll need to enter the price of the coffee for 12 ounces._
+
+- Origin: _You’ll be asked to type where the coffee comes from (e.g., Ethiopia, Colombia)._
+
+- Roast Level: _You’ll input the roast level of the coffee, like Light, Medium, or Dark._
+
+- Description: _You’ll type a brief description of the coffee, highlighting its flavors or any other notable characteristics._
 
 #### Program Outputs:
 
@@ -87,9 +95,11 @@ It will also calculate a Website Rating by taking the overall rating, dividing i
 
 #### Result Display:
 
-Predicted Ratings: You’ll see the predicted ratings for Aroma, Acid, Body, Flavor, and Aftertaste.
-Overall Rating: The sum of the predicted ratings will be displayed as the "Overall Rating."
-Website Rating: Finally, the program will show the "Website Rating," which is a simpler, standardized score for easier interpretation.
+- Predicted Ratings: _You’ll see the predicted ratings for Aroma, Acid, Body, Flavor, and Aftertaste._
+  
+- Overall Rating: _The sum of the predicted ratings will be displayed as the "Overall Rating."_
+  
+- Website Rating: _Finally, the program will show the "Website Rating," which is a simpler, standardized score for easier interpretation._
 
 #### Example:
 
