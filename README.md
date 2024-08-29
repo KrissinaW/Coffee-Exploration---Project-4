@@ -4,7 +4,8 @@ Project-4
 
 Whether you're a casual drinker or a coffee connoisseur, this tool aims to make your coffee selection process both enjoyable and tailored to your specific needs.
 
-![jon-tyson-pEGyLHAPfVw-unsplash](https://github.com/user-attachments/assets/3c8d825f-b235-41b9-acab-068cc8c54d78)
+![milo-miloezger-rKYRJu0n06Y-unsplash](https://github.com/user-attachments/assets/594e0c94-e756-4834-921d-1ca621f43e95)
+
 
 *Image credit: [istockphoto.com](https://www.istockphoto.com/photos/coffee)*
 
