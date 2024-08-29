@@ -113,7 +113,7 @@ If you enter:
 
 **Description:** "Balanced, high-toned, multi-layered. Dried plum, genmaicha tea, lemon balm, candied violet, cocoa nib in aroma and cup. Sparkling acidity; crisp, satiny mouthfeel. Notes of dried plum and genmaicha tea are foregrounded in the pleasing finish."
 
-The program might display something like:
+**The program might display something like:**
 
 **Aroma:** 18.02
 
