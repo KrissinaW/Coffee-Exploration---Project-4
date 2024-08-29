@@ -41,11 +41,11 @@ The dataset was split into an 80% training set and a 20% testing set. We built a
 The final model allows users to input coffee details (cost, origin, roast level, description) and receive predictions for the quality ratings based on the trained model.
 
 ### - How to use the Machine Learning program:
-  How to Run the Program:
+ ### How to Run the Program:
 
 Make Sure Python is Installed: Ensure that Python is installed on your computer. You'll also need some Python packages, like pandas, numpy, and sklearn, which the program uses.
 
-  Run the Program:
+ ### Run the Program:
 
 Open your terminal or command prompt.
 Navigate to the folder where your program file is saved.
@@ -59,13 +59,15 @@ Origin: You’ll be asked to type where the coffee comes from (e.g., Ethiopia, C
 Roast Level: You’ll input the roast level of the coffee, like Light, Medium, or Dark.
 Description: You’ll type a brief description of the coffee, highlighting its flavors or any other notable characteristics.
 
-Program Outputs:
+### Program Outputs:
 
 After you provide the inputs, the program will use the information to predict how the coffee will be rated across five categories: Aroma, Acid, Body, Flavor, and Aftertaste.
 It will display each of these predicted ratings.
 The program will then calculate an Overall Rating by adding up these five ratings.
 It will also calculate a Website Rating by taking the overall rating, dividing it by 2, adding 50, and rounding it to the nearest whole number.
-Result Display:
+
+### Result Display:
+
 Predicted Ratings: You’ll see the predicted ratings for Aroma, Acid, Body, Flavor, and Aftertaste.
 Overall Rating: The sum of the predicted ratings will be displayed as the "Overall Rating."
 Website Rating: Finally, the program will show the "Website Rating," which is a simpler, standardized score for easier interpretation.
