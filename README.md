@@ -40,6 +40,54 @@ The dataset was split into an 80% training set and a 20% testing set. We built a
     
 The final model allows users to input coffee details (cost, origin, roast level, description) and receive predictions for the quality ratings based on the trained model.
 
+### - How to use the Machine Learning program:
+  How to Run the Program:
+
+Make Sure Python is Installed: Ensure that Python is installed on your computer. You'll also need some Python packages, like pandas, numpy, and sklearn, which the program uses.
+
+  Run the Program:
+
+Open your terminal or command prompt.
+Navigate to the folder where your program file is saved.
+Run the program by typing python your_program_name.py and pressing Enter. Replace your_program_name.py with the actual name of your Python file.
+What Happens When You Run the Program:
+User Inputs:
+
+The program will ask you to input some details about a coffee:
+Cost per 12 ounces: You’ll need to enter the price of the coffee for 12 ounces.
+Origin: You’ll be asked to type where the coffee comes from (e.g., Ethiopia, Colombia).
+Roast Level: You’ll input the roast level of the coffee, like Light, Medium, or Dark.
+Description: You’ll type a brief description of the coffee, highlighting its flavors or any other notable characteristics.
+
+Program Outputs:
+
+After you provide the inputs, the program will use the information to predict how the coffee will be rated across five categories: Aroma, Acid, Body, Flavor, and Aftertaste.
+It will display each of these predicted ratings.
+The program will then calculate an Overall Rating by adding up these five ratings.
+It will also calculate a Website Rating by taking the overall rating, dividing it by 2, adding 50, and rounding it to the nearest whole number.
+Result Display:
+Predicted Ratings: You’ll see the predicted ratings for Aroma, Acid, Body, Flavor, and Aftertaste.
+Overall Rating: The sum of the predicted ratings will be displayed as the "Overall Rating."
+Website Rating: Finally, the program will show the "Website Rating," which is a simpler, standardized score for easier interpretation.
+Example:
+If you enter:
+
+Cost: $22
+Origin: Guji Zone, Oromia Region, southern Ethiopia
+Roast Level: Light
+Description: "Balanced, high-toned, multi-layered. Dried plum, genmaicha tea, lemon balm, candied violet, cocoa nib in aroma and cup. Sparkling acidity; crisp, satiny mouthfeel. Notes of dried plum and genmaicha tea are foregrounded in the pleasing finish."
+
+The program might display something like:
+
+Aroma: 18.02
+Acid: 17.82
+Body: 16.14
+Flavor: 18.00
+Aftertaste: 16.06
+Overall Rating: 86.04
+Website Rating: 93
+This gives you a complete picture of how the coffee might be rated, both on the website and in a simple overall score.
+
 ### - Dashboard/ Data Visualization:
 
 We imported the data into Tableau and ensured that all value types were correct for accurate analysis. To enhance user interaction, we created parameters that allow users to display specific data. Using latitude and longitude values, we generated a map visualization. Additionally, we developed calculated fields to dynamically generate points on the map based on user selections. To improve the user experience, we adjusted tooltips, colors, and sizes for better clarity and presentation.
