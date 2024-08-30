@@ -16,7 +16,7 @@ This project leverages a comprehensive dataset of coffee, encompassing various c
 
 ### - Lucid Chart-Flow Chart:
 
-  Our [process flow chart](https://lucid.app/lucidchart/fd780518-75bf-4bc6-890b-131cea1d39eb/edit?view_items=pWN5zXSXMqBs&invitationId=inv_c2623e5c-ff20-4a38-9f1d-3fc05ed588fa) was created as a visual tool to assist with project management, ensuring that each stage of our project is clearly defined and efficiently executed. The chart outlines the key phases of the project, from problem definition and data collection to model deployment and reporting. By assigning specific tasks to team members and visually representing the workflow, the chart helps us track progress, manage tasks effectively, and maintain clear communication within the team. This structured approach ensures that all project elements are aligned and contributes to a successful outcome.
+  Our [process flow chart](ProcessFlow.png) was created as a visual tool to assist with project management, ensuring that each stage of our project is clearly defined and efficiently executed. The chart outlines the key phases of the project, from problem definition and data collection to model deployment and reporting. By assigning specific tasks to team members and visually representing the workflow, the chart helps us track progress, manage tasks effectively, and maintain clear communication within the team. This structured approach ensures that all project elements are aligned and contributes to a successful outcome.
 
 ### - Data Collection and Processing:
 
