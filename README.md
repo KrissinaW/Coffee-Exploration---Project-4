@@ -138,6 +138,7 @@ This gives you a complete picture of how the coffee might be rated, both on the 
 ## *Looking Ahead:*
 
 ### Possible Improvements: 
+To further refine our predictive model, we propose an increased focus on lower-rated coffees, which have been underrepresented in the current dataset. By incorporating additional data sources that specifically address lower-end ratings, we aim to gain deeper insights into the factors that contribute to these assessments. This effort will include integrating diverse review types and perspectives from a broader array of reviewers, thereby capturing a more comprehensive spectrum of opinions and experiences. Such an approach will significantly enhance the robustness of our dataset, ultimately leading to more accurate and nuanced predictions across the full range of coffee ratings.
 
 ### Ideas for Development:
 
