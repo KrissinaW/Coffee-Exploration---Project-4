@@ -52,7 +52,7 @@ We imported the data into Tableau and ensured that all value types were correct 
 
 ### - Final Project Presentation:
 
-For the final presentation, we used [Google Slides](https://docs.google.com/presentation/d/1qQ95_PN-ragvNqqXkASRkP4Edhuew8NZdcvBS92oREQ/edit?usp=sharing) to organize and present our findings in a clear and visually engaging way.
+For the final presentation, we used [Google Slides](https://docs.google.com/presentation/d/1qQ95_PN-ragvNqqXkASRkP4Edhuew8NZdcvBS92oREQ/edit?usp=sharing) to organize and present our findings in a clear and visually engaging way. You are also able to access it here: [Slide Show](Coffee-Exploration.pptx)
 
 ![image](https://github.com/user-attachments/assets/3b859094-f9c4-40b6-816a-cc2883d404ce)
 
