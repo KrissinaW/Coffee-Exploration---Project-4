@@ -44,7 +44,7 @@ The final model allows users to input coffee details (cost, origin, roast level,
 
 ### - Dashboard/ Data Visualization:
 
-We imported the data into [Tableau Public]([https://public.tableau.com/views/CoffeeTalk_17251472096280/RatingbyRoast?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/shared/HM4WFMGC6?:display_count=n&:origin=viz_share_link)) and ensured that all value types were correct for accurate analysis. To enhance user interaction, we created parameters that allow users to display specific data. Using latitude and longitude values, we generated a map visualization. Additionally, we developed calculated fields to dynamically generate points on the map based on user selections. To improve the user experience, we adjusted tooltips, colors, and sizes for better clarity and presentation.
+We imported the data into [TableauPublic]([https://public.tableau.com/views/CoffeeTalk_17251472096280/RatingbyRoast?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/shared/HM4WFMGC6?:display_count=n&:origin=viz_share_link) and ensured that all value types were correct for accurate analysis. To enhance user interaction, we created parameters that allow users to display specific data. Using latitude and longitude values, we generated a map visualization. Additionally, we developed calculated fields to dynamically generate points on the map based on user selections. To improve the user experience, we adjusted tooltips, colors, and sizes for better clarity and presentation.
 
 ### - Word Cloud:
 
